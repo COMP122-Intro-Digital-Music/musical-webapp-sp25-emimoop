@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "name": "dewirily",
+    "file": "samples/dewirily.mp3",
+    "bpm": "120",
+    "loop": 1,
+    "grain": "0.04",
+    "overlap": 0.01
+  },
+  {
+    "name": "jumpinharri",
+    "file": "samples/jumpinharri.mp3",
+    "bpm": 120,
+    "loop": 1,
+    "grain": 0.04,
+    "overlap": 0.01
+  },
+  {
+    "name": "smget",
+    "file": "samples/smget.mp3",
+    "bpm": 120,
+    "loop": 1,
+    "grain": 0.04,
+    "overlap": 0.01
+  }
+]
