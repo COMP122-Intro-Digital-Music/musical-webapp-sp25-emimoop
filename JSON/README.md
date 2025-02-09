@@ -1,3 +1,1 @@
-# JSON folder
-
-Replace the .json files in this folder with your own.
+[samples.json](https://github.com/user-attachments/files/18722806/samples.json)
