@@ -1,1 +1,81 @@
-[]
+[
+  {
+    "name": "meow1",
+    "type": "Synth",
+    "settings": {
+      "volume": 0,
+      "detune": 1200,
+      "portamento": "9",
+      "envelope": {
+        "attack": "0.005",
+        "attackCurve": "linear",
+        "decay": "0.1",
+        "decayCurve": "exponential",
+        "release": "1",
+        "releaseCurve": "exponential",
+        "sustain": "0.3"
+      },
+      "oscillator": {
+        "partialCount": 0,
+        "partials": [],
+        "phase": 0,
+        "type": "fmsawtooth",
+        "harmonicity": 1,
+        "modulationIndex": 2,
+        "modulationType": "square"
+      }
+    }
+  },
+  {
+    "name": "meow3whossurprised",
+    "type": "Synth",
+    "settings": {
+      "volume": -3.9999999999999996,
+      "detune": -1024,
+      "portamento": "0",
+      "envelope": {
+        "attack": "0.005",
+        "attackCurve": "sine",
+        "decay": "0.1",
+        "decayCurve": "linear",
+        "release": "1",
+        "releaseCurve": "cosine",
+        "sustain": "0.3"
+      },
+      "oscillator": {
+        "partialCount": 0,
+        "partials": [],
+        "phase": 0,
+        "type": "fatsquare",
+        "count": 3,
+        "spread": 20
+      }
+    }
+  },
+  {
+    "name": "meow3whossurprised",
+    "type": "Synth",
+    "settings": {
+      "volume": 0,
+      "detune": 0,
+      "portamento": "0",
+      "envelope": {
+        "attack": "0.005",
+        "attackCurve": "bounce",
+        "decay": "0.1",
+        "decayCurve": "exponential",
+        "release": "1",
+        "releaseCurve": "step",
+        "sustain": "0.3"
+      },
+      "oscillator": {
+        "partialCount": 0,
+        "partials": [],
+        "phase": 0,
+        "type": "amsine",
+        "harmonicity": 8,
+        "modulationType": "square"
+      }
+    }
+  }
+]
