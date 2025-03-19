@@ -1,1 +1,27 @@
-[]
+[
+  {
+    "name": "kick a3",
+    "pitch": "A3",
+    "pattern": "10001"
+  },
+  {
+    "name": "snare b3",
+    "pitch": "B3",
+    "pattern": "1010"
+  },
+  {
+    "name": "c#4 shot 1",
+    "pitch": "C#4",
+    "pattern": "1001"
+  },
+  {
+    "name": "f4 closed hihat",
+    "pitch": "F4",
+    "pattern": "1010"
+  },
+  {
+    "name": "white noise",
+    "pitch": "D4",
+    "pattern": "0001"
+  }
+]
