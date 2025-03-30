@@ -1,1 +1,40 @@
-[]
+[
+  {
+    "name": "woot woot",
+    "loop": "4:3:2",
+    "octave": 0,
+    "sequence": [
+      {
+        "time": "4:2:2.0",
+        "pitch": "C4",
+        "dur": "4n",
+        "vel": "1"
+      },
+      {
+        "time": "4:0:0.0",
+        "pitch": "C#4",
+        "dur": "4n",
+        "vel": "1"
+      }
+    ]
+  },
+  {
+    "name": "womp womp",
+    "loop": "4:2:1",
+    "octave": 0,
+    "sequence": [
+      {
+        "time": "1:1:2.undefined",
+        "pitch": "E3",
+        "dur": "4n",
+        "vel": "1"
+      },
+      {
+        "time": "1:1:1.0",
+        "pitch": "A4",
+        "dur": "4n",
+        "vel": "1"
+      }
+    ]
+  }
+]
